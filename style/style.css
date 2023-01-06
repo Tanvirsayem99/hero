@@ -9,11 +9,15 @@ header{
     background-repeat: no-repeat;
     height: 850px;
 }
+.header-section{
+    float: right;
+    margin-right: 200px;
+    margin-top: 280px;
+    
+}
 
 .header-title{
-    position: absolute;
-    top: 216px;
-    left: 1000px;
+    
     color: white;
     font-weight: 700;
     font-size: 65px;
@@ -22,14 +26,14 @@ header{
 
 }
 .header-paragraph{
-    position: absolute;
-    left: 1130px;
-    top: 468px;
+    
     width: 400px;
     font-size: 16px;
     color: white;
     text-align: right;
     color: #c0bdbd;
+    margin-left: 120px;
+    margin-top: 20px;
 
 }
 .header-btn{
@@ -39,9 +43,9 @@ header{
     border-radius: 5px;
     width: 160px;
     height: 64px;
-    position: absolute;
-    left: 1370px;
-    top: 568px;
+    margin-left: 360px;
+    margin-top: 20px;
+    
 }
 /* experience section */
 .experience-section{
