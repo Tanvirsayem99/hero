@@ -132,10 +132,13 @@ header{
 /* plan section */
 .plan-title{
     
-    margin-left:  755px;
+    
     margin-bottom: 50px;
     font-size: 50px;
     font-weight: 700;
+}
+.plan-section ,.plan-title{
+    text-align: center;
 }
 .plan-data{
     display: flex;
