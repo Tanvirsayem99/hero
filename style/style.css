@@ -4,7 +4,7 @@
 }
 /* header section */
 header{
-    background-image: url("../images/banner/banner3.png");
+    background-image: url("../images/banner/banner2.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 850px;
@@ -30,14 +30,16 @@ header{
     width: 400px;
     font-size: 16px;
     text-align: right;
-    color: #c0bdbd;
+    color: black;
     margin-left: 120px;
     margin-top: 20px;
 
 }
 .header-btn{
-    background-color: white;
-    color: #0877B6;
+    background-color: #F15B22;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
     border: 0;
     border-radius: 5px;
     width: 160px;
